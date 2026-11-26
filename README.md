@@ -1,5 +1,7 @@
 # flutter-feature-scaffold
 
+_By [Tahe Ben Said](https://tahebensaid.dev), senior mobile engineer. More apps and tools at [tahebensaid.dev](https://tahebensaid.dev)._
+
 Creates a Flutter feature folder that starts small and grows into clean architecture without a rewrite.
 
 Most features don't need three layers on day 1. Some of them do by month 6. This tool gives you the small version first, and moves your code into the bigger one when the feature earns it.
